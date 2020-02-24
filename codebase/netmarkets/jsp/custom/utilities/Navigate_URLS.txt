@@ -1,0 +1,3 @@
+http://windchill.apps.carrier.com/Windchill/	Windchill Production	Windchill Production URL
+http://windchilldev.apps.carrier.com/Windchill/	Windchill Dev	Windchill Dev URL
+http://windchillstage.apps.carrier.com/Windchill/	Windchill Stage	Windchill Stage URL

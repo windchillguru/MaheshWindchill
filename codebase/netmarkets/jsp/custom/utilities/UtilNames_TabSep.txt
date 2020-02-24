@@ -1,0 +1,6 @@
+/Windchill/netmarkets/jsp/custom/utilities/userDetails.jsp	User Details Page	To retrieve information on a specific Windchill user, such as groups, roles and open tasks
+/Windchill/groupDetails.jsp	Group details	Reports where a specific Windchill group is used
+/Windchill/PartAssociationReport.jsp	Part Association Report	For any CA, returns all resulting WTParts and their associated objects
+/Windchill/wtcore/jsp/ext/carrier/wc/esi/CarrierESIValidation.jsp	Target Distribution Report	A report of the Distribution target information for an ECN
+/Windchill/netmarkets/jsp/ext/carrier/wc/cognos/report/UniqueReport.jsp	UniqueReport Details	A report will generate the Unique Part information
+http://windchilldev.apps.carrier.com/Windchill/	Windchill Dev	Windchill Dev URL
